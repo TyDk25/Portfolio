@@ -1,0 +1,76 @@
+body {
+    margin: 0px;
+    text-align: center;
+    background-color: #F7F7F7;
+    padding-top: 10px;
+    font-family: 'Merriweather Sans', sans-serif;
+    
+}
+
+.Teamwork {
+    height: 200px;
+    width: 300px;
+}
+
+.Shoes {
+    height: 200px;
+    width: 300px;
+}
+
+.Programming {
+    height: 200px;
+    width: 200px;
+}
+
+#Me {
+    height: 300px;
+    width: 300px;
+}
+
+.top-container {
+  
+}
+
+.middle-container {
+
+
+}
+
+.bottom-container {
+    
+}
+
+
+
+h1 {
+    margin: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+
+}
+
+h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+}
+
+
+    h3 {
+        
+    }
+
+
+
+    .bottom-cloud {
+        position: absolute;
+    }
+
+    .top-cloud {
+        position: relative;
+        left: 300px;
+        top: 5px;
+        padding-top: 100px;
+
+    }
